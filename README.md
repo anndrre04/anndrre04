@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anndrre04
+- 👋 Hi, Andreea
 - 👀 I’m interested in following the QA Manual Software Tester career path
 - 🌱 I’m currently learning new skills to improve my knowledge in this work area
 - 📫 How to reach me: via email at a_andre04@yahoo.com
